@@ -1,0 +1,35 @@
+{
+  "timezone": "Asia/Shanghai",
+  "whisper_model": "mlx-community/whisper-large-v3-turbo",
+  "cookies_from_browser": null,
+  "channels": [
+    {
+      "name": "视野环球财经",
+      "handle": "@RhinoFinance",
+      "channel_id": "UCFQsi7WaF5X41tcuOryDk8w",
+      "url": "https://www.youtube.com/@RhinoFinance",
+      "enabled": true
+    },
+    {
+      "name": "老李玩钱",
+      "handle": "@老李玩钱",
+      "channel_id": "UCo2gxyermsLBSCxFHvJs0Zg",
+      "url": "https://www.youtube.com/@%E8%80%81%E6%9D%8E%E7%8E%A9%E9%92%B1",
+      "enabled": true
+    },
+    {
+      "name": "精英财经 LABanker",
+      "handle": "@LA_Banker",
+      "channel_id": "UCW1cHQAzfL3pwKlKNwRjelQ",
+      "url": "https://www.youtube.com/@LA_Banker",
+      "enabled": true
+    },
+    {
+      "name": "XTrader猫姐美股",
+      "handle": "@catstocktrading",
+      "channel_id": "UCjuvy7VvwUGPtTnbpfYY1QQ",
+      "url": "https://www.youtube.com/@catstocktrading",
+      "enabled": true
+    }
+  ]
+}
